@@ -1,2 +1,17 @@
 # Snake-Game
-My first game in Python. Simple retro snake using turtle module.
+My first computer game in Python. Simple retro Snake using turtle module.
+
+## Gameplay screen-shot
+![image](https://github.com/KarolKasperek/Snake-Game/assets/105314335/e587895b-88fc-46b0-a989-533226503ba8)
+
+
+## How to play?
+1) Download repository to zip file or if you have git downloaded writing in your command line
+   ```
+   https://github.com/KarolKasperek/Snake-Game.git
+   ```
+
+2) Open folder with game and run main module using
+   ```
+   python main.py
+   ```
