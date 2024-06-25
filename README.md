@@ -1,5 +1,5 @@
 # Snake-Game
-My first computer game in Python. Simple retro Snake using turtle module.
+My first program in Python. Some people prefere HelloWorld, while others..
 
 ## Gameplay screen-shot
 ![image](https://github.com/KarolKasperek/Snake-Game/assets/105314335/e587895b-88fc-46b0-a989-533226503ba8)
