@@ -1,5 +1,5 @@
 # Snake-Game
-My first program in Python. Some people prefere simple "Hello World", while others..
+My first program in Python. Some people prefere "Hello World", while others..
 
 ## Gameplay screen-shot
 ![image](https://github.com/KarolKasperek/Snake-Game/assets/105314335/e587895b-88fc-46b0-a989-533226503ba8)
