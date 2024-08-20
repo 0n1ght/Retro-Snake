@@ -11,8 +11,7 @@ My first program in Python. Some people prefere "Hello World", while others..
    https://github.com/KarolKasperek/Snake-Game.git
    ```
 
-2) Open folder with game, then install required dependenciese and run main module using
+2) Open folder with game, and run main module using
    ```
-   pip install -r requirements.txt
    python main.py
    ```
